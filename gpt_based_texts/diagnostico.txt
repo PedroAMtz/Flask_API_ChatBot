@@ -1,0 +1,13 @@
+Síntomas más habituales: Aumento de sed (polidipsia), Aumento cantidad de orina (poliuria), aumento del apetito (polifagia), Pérdida de peso.
+Se recomienda utilizar la HbA1c para confirmar el diagnóstico de Diabetes Mellitus en pacientes que dieron positivo en alguna prueba de tamizaje y que presenten una glucemia plasmática en ayunas entre 100 y 125 mg/dL. Un valor > 6.5% confirma el diagnóstico.
+Se recomienda usar la curva de tolerancia a la glucosa oral en pacientes con glucemia plasmática en ayunas entre 100 y 125 mg/dL y que muestren preferencia por esta prueba. Un valor > 200 mg/dL a las 2 horas de ingerir una carga de 75 g de glucosa confirma el diagnóstico.
+Únicamente se deberán utilizar criterios de glucosa plasmática y no de HbA1c en condiciones que incrementen el recambio de glóbulos rojos, como el embarazo (en segundo y tercer trimestre), hemodiálisis, transfusiones recientes, tratamiento con eritropoyetina, enfermedad de células falciformes, etc.
+Criterios para el diagnóstico de Diabetes según la ADA (American Diabetes Association): 
+•	Glucosa plasmática en ayuno ≥ 126 mg/dL (7.0 mmol/L) (Ayuno definido como no haber tenido ingesta calórica en las últimas 8 horas).
+•	Glucosa plasmática a las 2 horas de ≥200 mg/dL (11.1 mmol/L) durante una prueba oral de tolerancia a la glucosa. La prueba deberá ser realizada con una carga de 75 gramos de glucosa disuelta en agua.
+•	Hemoglobina glucosilada (A1C) ≥ 6.5%. (48 mmol/mol) Esta prueba debe realizarse en laboratorios certificados de acuerdo con los estándares A1C del DCCT.
+•	Paciente con síntomas clásicos de hiperglicemia o crisis hiperglucémica con una glucosa al azar ≥ 200 mg/dL.
+Criterios para Pre-Diabetes:
+•	Glucosa en ayuno 100 a 125 mg/dL
+•	Glucosa plasmática a las 2 horas 140 a 199 mg/dL duranta una prueba oral de tolerancia a la glucosa. La prueba debe ser realizada con una carga de 75 g de glucosa disuelta en agua.
+•	Hemoglobina glucosilada (A1C) 5.7 a 6.4%

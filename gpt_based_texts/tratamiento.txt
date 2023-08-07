@@ -1,0 +1,19 @@
+Se recomienda iniciar tratamiento farmacológico con Metformina y cambios en el estilo de vida en pacientes con DM2 recién diagnosticada, aunque el valor inicial de HbA1C esté cerca del valor óptimo.
+Se recomienda mantener un nivel alto de actividad física para disminuir el riesgo de mortalidad en pacientes adultos con Diabetes Mellitus tipo 2. 
+Se recomienda que los pacientes adultos con DM 2 recién diagnosticada se apeguen a la dieta mediterránea. 
+ Se recomienda iniciar terapia combinada con metformina y otro antidiabético oral en pacientes adultos con DM tipo 2 recién diagnosticada y un nivel de HbA1c >8%. 
+ No se recomienda iniciar terapia combinada con sulfonilureas como la glibenclamida por el riesgo de hipoglicemia; se sugiere considerar primero otros medicamentos.
+No se recomienda iniciar terapia combinada con inhibidores SGLT-2 en pacientes adultos con diagnóstico reciente de DM tipo 2, a pesar de que favorecen la pérdida de peso; únicamente se utilizarán como una alternativa en caso de que no se puedan utilizar inhibidores DPP-4.
+En pacientes con diagnóstico reciente de Diabetes Mellitus tipo 2 que no alcanzan su meta terapéutica o no logran mantenerla con metformina como monoterapia, se recomienda como primer paso agregar un inhibidor DPP-4, por su mejor balance riesgo-beneficio. 
+En pacientes con diabetes mellitus tipo 2 que no alcanzaron su meta terapéutica o no logran mantenerla con metformina como monoterapia, se sugiere agregar una sulfonilurea con bajo riesgo de hipoglucemia (glimepirida, glicazida) cuando los inhibidores DPP-4 O SGLT2 no están disponibles o se encuentran contraindicados. 
+Se sugiere añadir como tercer fármaco la insulina basal en aquellos pacientes adultos con DM tipo 2 que no han alcanzado las metas de control de HbA1c o la han perdido y no tienen obesidad. 
+ Se recomienda añadir como tercer fármaco un agonista del receptor GLP-1 en aquellos pacientes con DM tipo 2 que no logran alcanzar la meta de HbA1c con terapia combinada (dos fármacos) o la perdieron y no son obesos. 
+Se recomienda dar tratamiento con IECA o ARA II en pacientes adultos con DM tipo 2 cuando se detecte microalbuminuria persistente, aunque todavía no tengan hipertensión arterial.
+Lista de fármacos: 
+•	Sulfonilureas: Tolbutamida, Clorpropamida, Glibenclamida, Gliclazida, Glipizida, glimepirida.
+•	Meglitinidas: Repaglinida, Nateglinida
+•	Análogos del GLP 1: Exanetide
+•	Inhibidores de la DPP-4 (Gliptinas): sitagliptina, vildagliptina.
+•	Fármacos insulino-sensibilizadores: metformina, metformina acción prolongada.
+•	Tiazolidinedionas (glitazonas): rosiglitazona, pioglitazona.
+•	Inhibidores de la absorción intestinal de monosacáridos (inhibidores de alfa glucosidasas intestinales): ascarbosa.
