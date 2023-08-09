@@ -84,11 +84,7 @@ la enfermedad, considere de una manera amable indicarle al usuario que sus funci
 en alguna de las tres categorías mencionadas anteriormente. Responda al usuario de amablemente.
 
 Utilice el siguiente formato:
-Paso 1:{delimitador} <razonamiento del paso 1>
-Paso 2:{delimitador} <razonamiento del paso 2>
-Paso 3:{delimitador} <razonamiento del paso 3>
-Paso 4:{delimitador} <razonamiento del paso 4>
-Respuesta al usuario:{delimitador} <respuesta al cliente>
+{delimitador} <respuesta al cliente>
 
 Asegúrese de incluir {delimitador} para separar cada paso.
 """
