@@ -110,9 +110,7 @@ def main_point():
 
 		response = get_completion_from_messages(messages)
 
-
 		answer = "Asistente médico: " + response.split(delimitador)[-1].strip()
-
 
 		conversations.append(question)
 		conversations.append(answer)
