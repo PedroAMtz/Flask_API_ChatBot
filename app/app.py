@@ -13,8 +13,6 @@ clinical_guiudes = ["C:/Users/pedro/OneDrive/Escritorio/Proyecto_IA_SS/Flask_API
 delimitador = "####"
 context = []
 
-
-
 for file in clinical_guiudes:
 	with open(file, encoding="utf-8") as f:
 		text = f.read()
