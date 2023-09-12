@@ -21,4 +21,4 @@ if __name__ == "__main__":
 		chunks = text_splitter.split_text(text=text)
 		context.append(chunks)
 
-	print(context)
+	print(context[-1])
